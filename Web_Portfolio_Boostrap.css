@@ -1,0 +1,26 @@
+
+.jumbotron {
+   padding-top: 6rem;
+   background-color: #e2edff;
+}
+
+#projects {
+   background-color: #e2edff;
+}
+
+#projects .row img {
+   height: 300px;
+}
+
+#pesan {
+   resize: none;
+}
+
+section {
+   padding-top: 5rem;
+}
+
+footer {
+   margin-top: -1px;
+}
+
